@@ -1,0 +1,37 @@
+{
+  "name": "Issufi Badji",
+  "title": "Hello guys!",
+  "apresentation": "I've been working with the Web for 6 months. I started with the Pascal language and improved myself by learning, with C Language, Python, Java, Web Stack (HTML5, CSS3, JS), PHP, Laravel Frameworks, and Database. If you need a junior programmer, I'm available to gain experience!",
+  "pages": [
+    {
+      "type": "Github",
+      "link": "https://github.com/BadjiIssufi/",
+      "class": "fab fa-github-square"
+    },
+    {
+      "type": "Facebook",
+      "link": "https://www.facebook.com/BadjiIssufi",
+      "class": "fab fa-facebook-square"
+    },
+    {
+      "type": "Twitter",
+      "link": "https://twitter.com/BadjiIssufi",
+      "class": "fab fa-twitter-square"
+    },
+    {
+      "type": "Linkedin",
+      "link": "https://www.linkedin.com/in/issufibadji/",
+      "class": "fab fa-linkedin"
+    },
+    {
+      "type": "E-mail",
+      "link": "mailto:issufibadji@gmail.com",
+      "class": "far fa-envelope"
+    },
+    {
+      "type": "Whatsapp",
+      "link": "http://api.whatsapp.com/send?1=pt_BR&phone=556696397593&text=Ol%C3%A1%20Issufi!%20Tenho%20um%20projeto%20em%20mente!",
+      "class": "fab fa-whatsapp"
+    }
+  ]
+}
