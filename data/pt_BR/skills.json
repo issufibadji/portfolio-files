@@ -18,6 +18,23 @@
           "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/js.png"
         }
       ]
+    },
+    {
+      "group": "BACKEND",
+      "tools": [
+        {
+          "name": "PHP7",
+          "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/php7.png"
+        },
+        {
+          "name": "PYTHON",
+          "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/python.png"
+        },
+        {
+          "name": "MySQL",
+          "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/mysql.png"
+        }
+      ]
     }
   ]
 }
