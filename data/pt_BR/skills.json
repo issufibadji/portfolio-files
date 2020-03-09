@@ -1,1 +1,19 @@
-{}
+{
+  "title": "Skills",
+  "apresentation": "",
+  "all": [
+    {
+      "group": "HTML",
+      "tools": [
+        {
+          "name": "HTML5",
+          "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/html5.png"
+        },
+        {
+          "name": "Blade",
+          "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/blade.png"
+        }
+      ]
+    }
+  ]
+}
