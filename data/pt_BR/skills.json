@@ -20,7 +20,7 @@
       ]
     },
     {
-      "group": "FRAMEWORKS DE FRONTEND",
+      "group": "FRAMEWORKS FRONTEND",
       "tools": [
         {
           "name": "VUE",
@@ -37,6 +37,10 @@
         {
           "name": "REACT",
           "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/react.png"
+        },
+        {
+          "name": "JQUERY",
+          "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/jquery.png"
         }
       ]
     },
@@ -56,6 +60,10 @@
           "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/js.png"
         },
         {
+          "name": "NODE JS",
+          "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/nodejs.png"
+        },
+        {
           "name": "JAVA",
           "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/java.png"
         },
@@ -66,6 +74,51 @@
         {
           "name": "ORACLEXE",
           "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/oraclexe.png"
+        },
+        {
+          "group": "FRAMEWORKS BACKEND",
+          "tools": [
+            {
+              "name": "LARAVEL",
+              "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/laravel.png"
+            },
+            {
+              "name": "DJANGO",
+              "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/django.png"
+            }
+          ]
+        },
+
+        {
+          "group": "INTEGRACAO COM APIs",
+          "tools": [
+            {
+              "name": "GOOGLE MAPs",
+              "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/maps.png"
+            },
+            {
+              "name": "OAUTH2 GOOGLE",
+              "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/ogoogle.png"
+            },
+            {
+              "name": "FACEBOOK",
+              "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/facebook.png"
+            }
+          ]
+        },
+
+        {
+          "group": "OUTROS",
+          "tools": [
+            {
+              "name": "GIT",
+              "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/git.png"
+            },
+            {
+              "name": "GitHub",
+              "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/github.png"
+            }
+          ]
         }
       ]
     }

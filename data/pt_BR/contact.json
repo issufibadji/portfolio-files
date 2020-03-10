@@ -19,6 +19,11 @@
       "class": "fab fa-twitter-square"
     },
     {
+      "type": "Instagram",
+      "link": "https://instagram.com/BadjiIssufi",
+      "class": "fab fa-instagram-square"
+    },
+    {
       "type": "Linkedin",
       "link": "https://www.linkedin.com/in/issufibadji/",
       "class": "fab fa-linkedin"
