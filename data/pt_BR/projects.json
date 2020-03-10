@@ -16,7 +16,23 @@
         { "description": "Layout com Bootstrap" },
         { "description": "Utiliza HTML5" },
         { "description": "Font Awesome como ícones" }
-      ]
-    }
+        ]
+      },
+      {
+        "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/curso.png",
+        "thumb": "",
+        "link": "#",
+        "source": "#",
+        "description": "Plataforma de Curso Online",
+        "title": "CursOnile",
+        "spec": [
+          { "description": "Backend com PHP" },
+          { "description": "Framework laravel" },
+          { "description": "Framework  Bootstrap" },
+          { "description": "Estilizado com CSS3" },
+          { "description": "Utiliza HTML5" },
+          { "description": "Font Awesome como ícones" }
+        ]
+      }
   ]
 }
