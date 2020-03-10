@@ -19,7 +19,7 @@
         }
       ]
     },
-    {
+      {
       "group": "FRAMEWORKS FRONTEND",
       "tools": [
         {
@@ -42,9 +42,9 @@
           "name": "JQUERY",
           "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/jquery.png"
         }
-      ]
-    },
-    {
+        ]
+      },
+      {
       "group": "BACKEND",
       "tools": [
         {
@@ -74,6 +74,8 @@
         {
           "name": "ORACLEXE",
           "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/oraclexe.png"
+        }
+        ]
         },
         {
           "group": "FRAMEWORKS BACKEND",
@@ -120,7 +122,5 @@
             }
           ]
         }
-      ]
-    }
   ]
 }
