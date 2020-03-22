@@ -1,21 +1,24 @@
 {
-  "name": "portfolio-files",
+  "name": "screenshot-projects",
   "version": "1.0.0",
   "description": "Repositorio criado para armazenar imagens do meu portfolio.",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:all": "gulp jsonminify && gulp image && git add --all && git commit -m \"update\" && git push -u origin master",
+    "build:data": "gulp jsonminify && git add --all && git commit -m \"update\" && git push -u origin master",
+    "build:image": "gulp image && git add --all && git commit -m \"update\" && git push -u origin master"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BadjiIssufi/portfolio-files.git"
+    "url": "git+https://github.com/thalysonalexr/screenshot-projects.git"
   },
   "author": "Thalyson Rodrigues <thalysonrodrigues.dev@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BadjiIssufi/portfolio-files/issues"
+    "url": "https://github.com/thalysonalexr/screenshot-projects/issues"
   },
-  "homepage": "https://github.com/BadjiIssufi/portfolio-files#readme",
+  "homepage": "https://github.com/thalysonalexr/screenshot-projects#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-image": "^6.0.0",
