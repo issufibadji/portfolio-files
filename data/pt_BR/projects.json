@@ -33,6 +33,23 @@
           { "description": "Utiliza HTML5" },
           { "description": "Font Awesome como ícones" }
         ]
+      },
+      {
+        "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/cadastroCliente.png",
+        "thumb": "",
+        "link": "#",
+        "source": "#",
+        "description": "Plataforma de Curso Online",
+        "title": "lojaCadastroCliente",
+        "spec": [
+          { "description": "Backend com PHP" },
+          { "description": "Framework laravel" },
+          { "description": "Framework  Bootstrap" },
+          { "description": "Estilizado com CSS3" },
+          { "description": "Utiliza HTML5" },
+          { "description": "Utiliza JavaScript" },
+          { "description": "Font Awesome como ícones" }
+        ]
       }
   ]
 }
