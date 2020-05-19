@@ -52,6 +52,23 @@
         ]
       },
       {
+        "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/be-the-hero.png",
+        "thumb": "",
+        "link": "#",
+        "source": "#",
+        "description": "Projeto de Web/Mobile Cadastro de Caso de ONGs",
+        "title": "Be-The-Hero",
+        "spec": [
+          { "description": "Backend Nodejs" },
+          { "description": "Frontend Reactjs" },
+          { "description": "Framework   Express" },
+          { "description": "conexão com a API" },
+          { "description": "Mobile com Expo" },
+          { "description": "Ícone e splash Screen" }
+        ]
+      }
+      ,
+      {
         "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/lojaInformatica.png",
         "thumb": "",
         "link": "#",
