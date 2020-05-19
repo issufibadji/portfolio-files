@@ -7,7 +7,7 @@
       "thumb": "",
       "link": "#",
       "source": "#",
-      "description": "Sistema Web para ser utilizado pela Escola Técnica Estadual de Rondonópolis – MT para gestão das turmas de cursos de formação inicial e continuada (FIC)",
+      "description": "Sistema Web para ser utilizado pela Escola Técnica Estadual de Rondonópolis – MT para gestão das turmas de cursos de formação inicial e continuada (FIC).",
       "title": "SIPAE",
       "spec": [
         { "description": "Backend com PHP" },
@@ -23,8 +23,8 @@
         "thumb": "",
         "link": "#",
         "source": "#",
-        "description": "Plataforma de Curso Online",
-        "t itle": "CursOnile",
+        "description": "Plataforma de Curso Online, mantem os cursos e dados de clientes.Tem como objetivo oferecer um processo de aprendizagem completo, dinâmico e eficiente por intermédio de recursos tecnológicos.",
+        "title": "CursOnile",
         "spec": [
           { "description": "Backend com PHP" },
           { "description": "Framework laravel" },
@@ -39,8 +39,8 @@
         "thumb": "",
         "link": "#",
         "source": "#",
-        "description": "Loja X ",
-        "title": "lojaCadastroCliente",
+        "description": " loja Virtual ao realizar um controle de estoque eficiente, as informações fornecidas permitirão ao gestor calcular com precisão o giro de cada um dos itens que o compõe, de forma organizada, orientando-o em relação as futuras compras, otimizando o aproveitamento do capital de giro da empresa e impedindo que ocorram perdas ou desvios no estoque.",
+        "title": "Loja X de Controle de Estoque",
         "spec": [
           { "description": "Backend com PHP" },
           { "description": "Framework laravel" },
@@ -56,7 +56,7 @@
         "thumb": "",
         "link": "#",
         "source": "#",
-        "description": "Projeto de Web/Mobile Cadastro de Caso de ONGs",
+        "description": "Projeto de Web/Mobile Cadastro de Caso de ONGs, tem como odjectivo ajudar manter dados de incidentes dos  ONGs.",
         "title": "Be-The-Hero",
         "spec": [
           { "description": "Backend Nodejs" },
@@ -73,7 +73,7 @@
         "thumb": "",
         "link": "#",
         "source": "#",
-        "description": "Loja informatrica ",
+        "description": "Loja de Acessório Sda Informatica, é sistema de vendas com dados do cliente, produtos, marca e departamento. Emissão é de controle de caixa com demonstrativo das vendas e produtividade dos vendedores. Conheça o nosso software para loja de acessórios da Informática.",
         "title": "Loja de acessorios da informatica",
         "spec": [
           { "description": "Backend com PHP" },
