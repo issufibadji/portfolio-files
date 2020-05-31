@@ -66,24 +66,7 @@
       }
       ,
       {
-        "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/cadastroCliente.png",
-        "thumb": "",
-        "link": "#",
-        "source": "#",
-        "description": " loja Virtual ao realizar um controle de estoque eficiente, as informações fornecidas permitirão ao gestor calcular com precisão o giro de cada um dos itens que o compõe, de forma organizada, orientando-o em relação as futuras compras, otimizando o aproveitamento do capital de giro da empresa e impedindo que ocorram perdas ou desvios no estoque.",
-        "title": "Loja X de Controle de Estoque",
-        "spec": [
-          { "description": "Backend com PHP" },
-          { "description": "Framework laravel" },
-          { "description": "Framework  Bootstrap" },
-          { "description": "Estilizado com CSS3" },
-          { "description": "Utiliza HTML5" },
-          { "description": "Utiliza JavaScript" },
-          { "description": "Font Awesome como ícones" }
-        ]
-      },
-      {
-        "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/protofio2.png",
+        "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/protfolio.png",
         "thumb": "",
         "link": "https://badjiissufi.github.io/portfolio/",
         "source": "#",
@@ -114,6 +97,39 @@
         ]
       }
       ,
+      {
+        "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/PageTitle.html",
+        "thumb": "",
+        "link": "https://badjiissufi.github.io/animacaologin/",
+        "source": "https://github.com/BadjiIssufi/animacaologin",
+        "description": "Projeto de Login animation, animaçao da tela de login.",
+        "title": "Login Animation",
+        "spec": [
+          { "description": "HTML5" },
+          { "description": "CSS" },
+          { "description": "javaScript" }
+        ]
+      }
+      ,
+      
+      {
+        "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/cadastroCliente.png",
+        "thumb": "",
+        "link": "#",
+        "source": "#",
+        "description": " loja Virtual ao realizar um controle de estoque eficiente, as informações fornecidas permitirão ao gestor calcular com precisão o giro de cada um dos itens que o compõe, de forma organizada, orientando-o em relação as futuras compras, otimizando o aproveitamento do capital de giro da empresa e impedindo que ocorram perdas ou desvios no estoque.",
+        "title": "Loja X de Controle de Estoque",
+        "spec": [
+          { "description": "Backend com PHP" },
+          { "description": "Framework laravel" },
+          { "description": "Framework  Bootstrap" },
+          { "description": "Estilizado com CSS3" },
+          { "description": "Utiliza HTML5" },
+          { "description": "Utiliza JavaScript" },
+          { "description": "Font Awesome como ícones" }
+        ]
+      },
+      
       {
         "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/lojaInformatica.png",
         "thumb": "",
