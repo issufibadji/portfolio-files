@@ -6,7 +6,7 @@
       "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/sipae.png",
       "thumb": "",
       "link": "#",
-      "source": "#",
+      "source": "https://github.com/BadjiIssufi/portalsecitec",
       "description": "Sistema Web para ser utilizado pela Escola Técnica Estadual de Rondonópolis – MT para gestão das turmas de cursos de formação inicial e continuada (FIC).",
       "title": "SIPAE",
       "spec": [
@@ -22,7 +22,7 @@
         "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/curso.png",
         "thumb": "",
         "link": "#",
-        "source": "#",
+        "source": "https://github.com/BadjiIssufi/plataformaCursOnline",
         "description": "Plataforma de Curso Online, mantem os cursos e dados de clientes.Tem como objetivo oferecer um processo de aprendizagem completo, dinâmico e eficiente por intermédio de recursos tecnológicos.",
         "title": "CursOnile",
         "spec": [
@@ -38,7 +38,7 @@
         "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/be-the-hero.png",
         "thumb": "",
         "link": "#",
-        "source": "#",
+        "source": "https://github.com/BadjiIssufi/be-the-hero",
         "description": "Projeto de Web/Mobile Cadastro de Caso de ONGs, tem como odjectivo ajudar manter dados de incidentes dos  ONGs.",
         "title": "Be-The-Hero",
         "spec": [
@@ -134,7 +134,7 @@
         "figure": "https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/projects/lojaInformatica.png",
         "thumb": "",
         "link": "#",
-        "source": "#",
+        "source": "https://github.com/BadjiIssufi/cadastroClientes_laravel",
         "description": "Loja de Acessório Sda Informatica, é sistema de vendas com dados do cliente, produtos, marca e departamento. Emissão é de controle de caixa com demonstrativo das vendas e produtividade dos vendedores. Conheça o nosso software para loja de acessórios da Informática.",
         "title": "Loja de acessorios da informatica",
         "spec": [
