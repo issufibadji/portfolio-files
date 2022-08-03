@@ -231,7 +231,7 @@
             "description": "Drink Water,é um projeto de Drink Water, que foi desenvolvido durante o meu treinamento de de JavaScript. Tem como objetivo de ajudar usuário contrar consumo de água bebida .",
             "title": "Drink Water",
             "spec": [{
-                    "description": "Utilizado HTML5"
+                    "description": "Utiliza HTML5"
                 },
                 {
                     "description": "Estilizado com CSS3"
@@ -241,6 +241,54 @@
                 },
                 {
                     "description": "Font Awesome como ícones"
+                }
+            ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/ConsultoriClinica.gif",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/ClinicaDoutorDelfim/",
+            "source": "https://github.com/issufibadji/ClinicaDoutorDelfim",
+            "description": "A Consultoria Clinica, surge como uma solução para médicos, sociedades médicas, clínicas e hospitais que desejam estabelecer um negócio bem estruturado, eficiente e dentro dos regulamentos aplicáveis ao setor.",
+            "title": "Consultoria Clinica",
+            "spec": [{
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Estilizado com CSS3"
+                },
+                {
+                    "description": "Utiliza JavaScript"
+                },
+                {
+                    "description": "Font Awesome como ícones"
+                },
+                {
+                    "description": "Utiliza ScrollReveal"
+                }
+            ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/devfinanca.gif",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/DevFinanca/",
+            "source": "https://github.com/issufibadji/DevFinanca",
+            "description": "O dev.finança é uma aplicação para controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída.",
+            "title": "Dev finança",
+            "spec": [{
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Estilizado com CSS3"
+                },
+                {
+                    "description": "Utiliza JavaScript"
+                },
+                {
+                    "description": "Font Awesome como ícones"
+                },
+                {
+                    "description": "Utiliza switch"
                 }
             ]
         }
