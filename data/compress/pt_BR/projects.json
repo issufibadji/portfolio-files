@@ -250,7 +250,7 @@
             "link": "https://issufibadji.github.io/ClinicaDoutorDelfim/",
             "source": "https://github.com/issufibadji/ClinicaDoutorDelfim",
             "description": "A Consultoria Clinica, surge como uma solução para médicos, sociedades médicas, clínicas e hospitais que desejam estabelecer um negócio bem estruturado, eficiente e dentro dos regulamentos aplicáveis ao setor.",
-            "title": "Consultoria Clinica",
+            "title": "Consultória Clinica",
             "spec": [{
                     "description": "Utiliza HTML5"
                 },
@@ -274,7 +274,7 @@
             "link": "https://issufibadji.github.io/DevFinanca/",
             "source": "https://github.com/issufibadji/DevFinanca",
             "description": "O dev.finança é uma aplicação para controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída.",
-            "title": "Dev finança",
+            "title": "Dev Finança",
             "spec": [{
                     "description": "Utiliza HTML5"
                 },
@@ -289,6 +289,45 @@
                 },
                 {
                     "description": "Utiliza switch"
+                }
+            ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/mytime.gif",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/mytime/",
+            "source": "https://github.com/issufibadji/mytime",
+            "description": "O Mytime é um projeto de relógio, que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de Alarm clock.",
+            "title": "My Time",
+            "spec": [{
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Estilizado com CSS3"
+                },
+                {
+                    "description": "Utiliza JavaScript"
+                },
+                {
+                    "description": "Utiliza switch"
+                }
+            ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/fotorio.gif",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/pontosTuristicosRiodeJaneiro/",
+            "source": "https://github.com/issufibadji/pontosTuristicosRiodeJaneiro",
+            "description": "O Fotos de 12 pontos turísticos do Rio de janeiro Projeto foi desenvolvido durante o treinamento da manipulaçao da imagem para fazer o expanding cards.",
+            "title": "Pontos Turisticos Rio de Janeiro",
+            "spec": [{
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Estilizado com CSS3"
+                },
+                {
+                    "description": "Utiliza JavaScript"
                 }
             ]
         }
