@@ -330,6 +330,24 @@
                     "description": "Utiliza JavaScript"
                 }
             ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/profileissufibadji.gif",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/profileissufibadji/",
+            "source": "https://issufibadji.github.io/profileissufibadji/",
+            "description": "O ProfileIssufiBadji é um projeto de perfil das redes sociais.",
+            "title": "Profile IssufiBadji ",
+            "spec": [{
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Estilizado com CSS3"
+                },
+                {
+                    "description": "Utiliza switch"
+                }
+            ]
         }
     ]
 }
