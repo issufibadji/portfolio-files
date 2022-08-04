@@ -2,7 +2,7 @@
     "title": "Skills",
     "apresentation": "",
     "all": [{
-            "group": "FRONTEND",
+            "group": "LINGUAGENS & STACKS DE FRONTEND",
             "tools": [{
                     "name": "HTML5",
                     "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/html5.png"
@@ -14,6 +14,10 @@
                 {
                     "name": "JavaScript",
                     "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/js.png"
+                },
+                {
+                    "name": "REACT",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/react.png"
                 }
             ]
         },
@@ -26,16 +30,12 @@
                 {
                     "name": "MATERIALIZE",
                     "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/materialize.png"
-                },
-                {
-                    "name": "REACT",
-                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/react.png"
                 }
 
             ]
         },
         {
-            "group": "BACKEND",
+            "group": "LINGUAGENS & STACKS DE BACKEND",
             "tools": [{
                     "name": "PHP7",
                     "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/php7.png"
@@ -51,8 +51,12 @@
                 {
                     "name": "NODE JS",
                     "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/nodejs.png"
-                },
-                {
+                }
+            ]
+        },
+        {
+            "group": "BANCO DE DADOS",
+            "tools": [{
                     "name": "MySQL",
                     "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/mysql.png"
                 },
@@ -86,16 +90,18 @@
             ]
         },
         {
-            "group": "OUTROS",
+            "group": "CONTROLE DE VERSÃO",
             "tools": [{
-                    "name": "GIT",
-                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/git.png"
-                },
-                {
-                    "name": "GitHub",
-                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/github.png"
-                }
-            ]
+                "name": "GIT",
+                "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/git.png"
+            }]
+        },
+        {
+            "group": "PLATAFORMA DE CONTROLE DE VERSÃO",
+            "tools": [{
+                "name": "GitHub",
+                "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/github.png"
+            }]
         }
     ]
 }
