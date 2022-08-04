@@ -107,24 +107,6 @@
             ]
         },
         {
-            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/galeria.png",
-            "thumb": "",
-            "link": "https://issufibadji.github.io/galeriafotosNhiblo/",
-            "source": "https://github.com/issufibadji/galeriafotosNhiblo",
-            "description": "Projeto de Galeria de Fotos, tem como odjectivo de postar fotos.",
-            "title": "Galeria de Fotos",
-            "spec": [{
-                    "description": "HTML5"
-                },
-                {
-                    "description": "CSS"
-                },
-                {
-                    "description": "javaScript"
-                }
-            ]
-        },
-        {
             "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/protfolio2.png",
             "thumb": "",
             "link": "https://issufibadji.github.io/portfolio/",
@@ -283,6 +265,24 @@
             "source": "https://github.com/issufibadji/animacaologin",
             "description": "Projeto de Login animation, animaçao da tela de login.",
             "title": "Login Animation",
+            "spec": [{
+                    "description": "HTML5"
+                },
+                {
+                    "description": "CSS"
+                },
+                {
+                    "description": "javaScript"
+                }
+            ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/galeria.png",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/galeriafotosNhiblo/",
+            "source": "https://github.com/issufibadji/galeriafotosNhiblo",
+            "description": "Projeto de Galeria de Fotos, tem como odjectivo de postar fotos.",
+            "title": "Galeria de Fotos",
             "spec": [{
                     "description": "HTML5"
                 },
