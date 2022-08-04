@@ -74,6 +74,19 @@
             }]
         },
         {
+            "group": "SERVIÇOS CLOUD",
+            "tools": [{
+                    "name": "Heroku",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/laravel.png"
+                },
+                {
+                    "name": "GitHub Page",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/githubpages.png"
+                }
+            ]
+        },
+
+        {
             "group": "INTEGRACAO COM APIs",
             "tools": [{
                     "name": "GOOGLE MAPs",
@@ -101,6 +114,13 @@
             "tools": [{
                 "name": "GitHub",
                 "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/github.png"
+            }]
+        },
+        {
+            "group": "OUTROS",
+            "tools": [{
+                "name": "Markdown",
+                "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/markdown.png"
             }]
         }
     ]
