@@ -77,7 +77,7 @@
             "group": "SERVIÇOS CLOUD",
             "tools": [{
                     "name": "Heroku",
-                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/laravel.png"
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/heroku.png"
                 },
                 {
                     "name": "GitHub Page",
