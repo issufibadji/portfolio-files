@@ -325,6 +325,24 @@
             ]
         },
         {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/todolist.png",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/todolist/",
+            "source": "https://github.com/issufibadji/todolist",
+            "description": "O Todolist é um projeto da agenda de lista de afazeres, que foi desenvolvido durante o meu treinamento de de JavaScript.",
+            "title": "Lista de afazeres",
+            "spec": [{
+                    "description": "HTML5"
+                },
+                {
+                    "description": "CSS"
+                },
+                {
+                    "description": "javaScript"
+                }
+            ]
+        },
+        {
             "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/galeria.png",
             "thumb": "",
             "link": "https://issufibadji.github.io/galeriafotosNhiblo/",
