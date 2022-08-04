@@ -145,51 +145,7 @@
                 }
             ]
         },
-        {
-            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/blogArtigos.png",
-            "thumb": "",
-            "link": "#",
-            "source": "https://github.com/issufibadji/blogArtigosLaravel",
-            "description": "Projeto de Blog de pblicação de Artigos, com intuito de postar artigos ou qualquer que sejá trabalhos cientificos.",
-            "title": "Blog de Artigos",
-            "spec": [{
-                    "description": "Backend com PHP"
-                },
-                {
-                    "description": "Framework laravel"
-                },
-                {
-                    "description": "Framework  Bootstrap"
-                },
-                {
-                    "description": "Estilizado com CSS3"
-                },
-                {
-                    "description": "Utiliza HTML5"
-                },
-                {
-                    "description": "Font Awesome como ícones"
-                }
-            ]
-        },
-        {
-            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/login.png",
-            "thumb": "",
-            "link": "https://issufibadji.github.io/animacaologin/",
-            "source": "https://github.com/issufibadji/animacaologin",
-            "description": "Projeto de Login animation, animaçao da tela de login.",
-            "title": "Login Animation",
-            "spec": [{
-                    "description": "HTML5"
-                },
-                {
-                    "description": "CSS"
-                },
-                {
-                    "description": "javaScript"
-                }
-            ]
-        },
+
         {
             "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/profileissufibadji.gif",
             "thumb": "",
@@ -290,6 +246,51 @@
                 },
                 {
                     "description": "Utiliza JavaScript"
+                }
+            ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/blogArtigos.png",
+            "thumb": "",
+            "link": "#",
+            "source": "https://github.com/issufibadji/blogArtigosLaravel",
+            "description": "Projeto de Blog de pblicação de Artigos, com intuito de postar artigos ou qualquer que sejá trabalhos cientificos.",
+            "title": "Blog de Artigos",
+            "spec": [{
+                    "description": "Backend com PHP"
+                },
+                {
+                    "description": "Framework laravel"
+                },
+                {
+                    "description": "Framework  Bootstrap"
+                },
+                {
+                    "description": "Estilizado com CSS3"
+                },
+                {
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Font Awesome como ícones"
+                }
+            ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/login.png",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/animacaologin/",
+            "source": "https://github.com/issufibadji/animacaologin",
+            "description": "Projeto de Login animation, animaçao da tela de login.",
+            "title": "Login Animation",
+            "spec": [{
+                    "description": "HTML5"
+                },
+                {
+                    "description": "CSS"
+                },
+                {
+                    "description": "javaScript"
                 }
             ]
         },
