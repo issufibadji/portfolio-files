@@ -83,10 +83,34 @@
             ]
         },
         {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/devfinanca.gif",
+            "thumb": "",
+            "link": "https://issufibadji.github.io/DevFinanca/",
+            "source": "https://github.com/issufibadji/DevFinanca",
+            "description": "O dev.finança é uma aplicação para controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída.",
+            "title": "Dev Finança",
+            "spec": [{
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Estilizado com CSS3"
+                },
+                {
+                    "description": "Utiliza JavaScript"
+                },
+                {
+                    "description": "Font Awesome como ícones"
+                },
+                {
+                    "description": "Utiliza switch"
+                }
+            ]
+        },
+        {
             "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/galeria.png",
             "thumb": "",
-            "link": "https://issufibadji.github.io/galeriafotos_nhiblo/",
-            "source": "https://github.com/issufibadji/galeriafotos_nhiblo",
+            "link": "https://issufibadji.github.io/galeriafotosNhiblo/",
+            "source": "https://github.com/issufibadji/galeriafotosNhiblo",
             "description": "Projeto de Galeria de Fotos, tem como odjectivo de postar fotos.",
             "title": "Galeria de Fotos",
             "spec": [{
@@ -104,7 +128,7 @@
             "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/protfolio2.png",
             "thumb": "",
             "link": "https://issufibadji.github.io/portfolio/",
-            "source": "#",
+            "source": "https://github.com/issufibadji/portfolio",
             "description": "Projeto de Protfolio de desenvolvimento web.",
             "title": "Portfolio.me",
             "spec": [{
@@ -125,7 +149,7 @@
             "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/blogArtigos.png",
             "thumb": "",
             "link": "#",
-            "source": "#",
+            "source": "https://github.com/issufibadji/blogArtigosLaravel",
             "description": "Projeto de Blog de pblicação de Artigos, com intuito de postar artigos ou qualquer que sejá trabalhos cientificos.",
             "title": "Blog de Artigos",
             "spec": [{
@@ -167,59 +191,20 @@
             ]
         },
         {
-            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/cadastroCliente.png",
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/profileissufibadji.gif",
             "thumb": "",
-            "link": "#",
-            "source": "#",
-            "description": " loja Virtual ao realizar um controle de estoque eficiente, as informações fornecidas permitirão ao gestor calcular com precisão o giro de cada um dos itens que o compõe, de forma organizada, orientando-o em relação as futuras compras, otimizando o aproveitamento do capital de giro da empresa e impedindo que ocorram perdas ou desvios no estoque.",
-            "title": "Loja X de Controle de Estoque",
+            "link": "https://issufibadji.github.io/profileissufibadji/",
+            "source": "https://issufibadji.github.io/profileissufibadji/",
+            "description": "O ProfileIssufiBadji é um projeto de perfil das redes sociais.",
+            "title": "Profile IssufiBadji ",
             "spec": [{
-                    "description": "Backend com PHP"
-                },
-                {
-                    "description": "Framework laravel"
-                },
-                {
-                    "description": "Framework  Bootstrap"
+                    "description": "Utiliza HTML5"
                 },
                 {
                     "description": "Estilizado com CSS3"
                 },
                 {
-                    "description": "Utiliza HTML5"
-                },
-                {
-                    "description": "Utiliza JavaScript"
-                },
-                {
-                    "description": "Font Awesome como ícones"
-                }
-            ]
-        },
-        {
-            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/lojaInformatica.png",
-            "thumb": "",
-            "link": "#",
-            "source": "https://github.com/issufibadji/cadastroClientes_laravel",
-            "description": "Loja de Acessório Sda Informatica, é sistema de vendas com dados do cliente, produtos, marca e departamento. Emissão é de controle de caixa com demonstrativo das vendas e produtividade dos vendedores. Conheça o nosso software para loja de acessórios da Informática.",
-            "title": "Loja de acessorios da informatica",
-            "spec": [{
-                    "description": "Backend com PHP"
-                },
-                {
-                    "description": "Framework laravel"
-                },
-                {
-                    "description": "Framework  Bootstrap"
-                },
-                {
-                    "description": "Estilizado com CSS3"
-                },
-                {
-                    "description": "Utiliza HTML5"
-                },
-                {
-                    "description": "Font Awesome como ícones"
+                    "description": "Utiliza switch"
                 }
             ]
         },
@@ -268,30 +253,7 @@
                 }
             ]
         },
-        {
-            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/devfinanca.gif",
-            "thumb": "",
-            "link": "https://issufibadji.github.io/DevFinanca/",
-            "source": "https://github.com/issufibadji/DevFinanca",
-            "description": "O dev.finança é uma aplicação para controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída.",
-            "title": "Dev Finança",
-            "spec": [{
-                    "description": "Utiliza HTML5"
-                },
-                {
-                    "description": "Estilizado com CSS3"
-                },
-                {
-                    "description": "Utiliza JavaScript"
-                },
-                {
-                    "description": "Font Awesome como ícones"
-                },
-                {
-                    "description": "Utiliza switch"
-                }
-            ]
-        },
+
         {
             "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/mytime.gif",
             "thumb": "",
@@ -332,22 +294,63 @@
             ]
         },
         {
-            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/profileissufibadji.gif",
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/cadastroCliente.png",
             "thumb": "",
-            "link": "https://issufibadji.github.io/profileissufibadji/",
-            "source": "https://issufibadji.github.io/profileissufibadji/",
-            "description": "O ProfileIssufiBadji é um projeto de perfil das redes sociais.",
-            "title": "Profile IssufiBadji ",
+            "link": "#",
+            "source": "https://github.com/issufibadji/cadastroClientesLaravel",
+            "description": " loja Virtual ao realizar um controle de estoque eficiente, as informações fornecidas permitirão ao gestor calcular com precisão o giro de cada um dos itens que o compõe, de forma organizada, orientando-o em relação as futuras compras, otimizando o aproveitamento do capital de giro da empresa e impedindo que ocorram perdas ou desvios no estoque.",
+            "title": "Loja X de Controle de Estoque",
             "spec": [{
-                    "description": "Utiliza HTML5"
+                    "description": "Backend com PHP"
+                },
+                {
+                    "description": "Framework laravel"
+                },
+                {
+                    "description": "Framework  Bootstrap"
                 },
                 {
                     "description": "Estilizado com CSS3"
                 },
                 {
-                    "description": "Utiliza switch"
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Utiliza JavaScript"
+                },
+                {
+                    "description": "Font Awesome como ícones"
+                }
+            ]
+        },
+        {
+            "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/lojaInformatica.png",
+            "thumb": "",
+            "link": "#",
+            "source": "https://github.com/issufibadji/lojaInfoormaticaLaravel",
+            "description": "Loja de Acessório Sda Informatica, é sistema de vendas com dados do cliente, produtos, marca e departamento. Emissão é de controle de caixa com demonstrativo das vendas e produtividade dos vendedores. Conheça o nosso software para loja de acessórios da Informática.",
+            "title": "Loja de acessorios da informatica",
+            "spec": [{
+                    "description": "Backend com PHP"
+                },
+                {
+                    "description": "Framework laravel"
+                },
+                {
+                    "description": "Framework  Bootstrap"
+                },
+                {
+                    "description": "Estilizado com CSS3"
+                },
+                {
+                    "description": "Utiliza HTML5"
+                },
+                {
+                    "description": "Font Awesome como ícones"
                 }
             ]
         }
+
+
     ]
 }
