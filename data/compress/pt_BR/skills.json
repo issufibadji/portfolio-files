@@ -1,1 +1,101 @@
-{"title":"Skills","apresentation":"","all":[{"group":"FRONTEND","tools":[{"name":"HTML5","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/html5.png"},{"name":"CSS3","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/css3.png"},{"name":"JavaScript","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/js.png"}]},{"group":"FRAMEWORKS FRONTEND","tools":[{"name":"VUE","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/vue.png"},{"name":"BOOTSTRAPS","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/bootstrap.png"},{"name":"MATERIALIZE","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/materialize.png"},{"name":"REACT","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/react.png"},{"name":"JQUERY","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/jquery.png"}]},{"group":"BACKEND","tools":[{"name":"PHP7","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/php7.png"},{"name":"PYTHON","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/python.png"},{"name":"JavaScript","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/js.png"},{"name":"NODE JS","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/nodejs.png"},{"name":"JAVA","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/java.png"},{"name":"MySQL","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/mysql.png"},{"name":"ORACLEXE","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/oraclexe.png"}]},{"group":"FRAMEWORKS BACKEND","tools":[{"name":"LARAVEL","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/laravel.png"},{"name":"DJANGO","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/django.png"}]},{"group":"INTEGRACAO COM APIs","tools":[{"name":"GOOGLE MAPs","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/maps.png"},{"name":"OAUTH2 GOOGLE","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/ogoogle.png"},{"name":"FACEBOOK","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/facebook.png"}]},{"group":"OUTROS","tools":[{"name":"GIT","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/git.png"},{"name":"GitHub","figure":"https://raw.githubusercontent.com/badjiissufi/portfolio-files/master/dist/images/skills/github.png"}]}]}
+{
+    "title": "Skills",
+    "apresentation": "",
+    "all": [{
+            "group": "FRONTEND",
+            "tools": [{
+                    "name": "HTML5",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/html5.png"
+                },
+                {
+                    "name": "CSS3",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/css3.png"
+                },
+                {
+                    "name": "JavaScript",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/js.png"
+                }
+            ]
+        },
+        {
+            "group": "FRAMEWORKS FRONTEND",
+            "tools": [{
+                    "name": "BOOTSTRAPS",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/bootstrap.png"
+                },
+                {
+                    "name": "MATERIALIZE",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/materialize.png"
+                },
+                {
+                    "name": "REACT",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/react.png"
+                }
+
+            ]
+        },
+        {
+            "group": "BACKEND",
+            "tools": [{
+                    "name": "PHP7",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/php7.png"
+                },
+                {
+                    "name": "PYTHON",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/python.png"
+                },
+                {
+                    "name": "JavaScript",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/js.png"
+                },
+                {
+                    "name": "NODE JS",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/nodejs.png"
+                },
+                {
+                    "name": "MySQL",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/mysql.png"
+                },
+                {
+                    "name": "ORACLEXE",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/oraclexe.png"
+                }
+            ]
+        },
+        {
+            "group": "FRAMEWORKS BACKEND",
+            "tools": [{
+                "name": "LARAVEL",
+                "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/laravel.png"
+            }]
+        },
+        {
+            "group": "INTEGRACAO COM APIs",
+            "tools": [{
+                    "name": "GOOGLE MAPs",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/maps.png"
+                },
+                {
+                    "name": "OAUTH2 GOOGLE",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/ogoogle.png"
+                },
+                {
+                    "name": "FACEBOOK",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/facebook.png"
+                }
+            ]
+        },
+        {
+            "group": "OUTROS",
+            "tools": [{
+                    "name": "GIT",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/git.png"
+                },
+                {
+                    "name": "GitHub",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/github.png"
+                }
+            ]
+        }
+    ]
+}
