@@ -170,10 +170,10 @@
         {
             "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/projects/ConsultoriClinica.gif",
             "thumb": "",
-            "link": "https://issufibadji.github.io/ClinicaDoutorDelfim/",
-            "source": "https://github.com/issufibadji/ClinicaDoutorDelfim",
-            "description": "A Consultoria Clinica, surge como uma solução para médicos, sociedades médicas, clínicas e hospitais que desejam estabelecer um negócio bem estruturado, eficiente e dentro dos regulamentos aplicáveis ao setor.",
-            "title": "Consultória Clinica",
+            "link": "https://issufibadji.github.io/doctorCare/",
+            "source": "https://github.com/issufibadji/doctorCare/",
+            "description": "Os médicos da DoctorCare vão além dos sintomas para tratar a causa raiz de sua doença e proporcionar uma cura a longo prazo..",
+            "title": "Consultória DoctorCare",
             "spec": [{
                     "description": "Utiliza HTML5"
                 },

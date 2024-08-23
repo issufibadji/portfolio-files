@@ -18,6 +18,10 @@
                 {
                     "name": "REACT",
                     "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/react.png"
+                },
+                {
+                    "name": "VUE",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/vue.png"
                 }
             ]
         },
@@ -30,6 +34,10 @@
                 {
                     "name": "MATERIALIZE",
                     "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/materialize.png"
+                },
+                {
+                    "name": "VUETIFY",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/vuetify.png"
                 }
 
             ]
