@@ -120,9 +120,14 @@
         {
             "group": "PLATAFORMA DE CONTROLE DE VERSÃO",
             "tools": [{
-                "name": "GitHub",
-                "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/github.png"
-            }]
+                    "name": "GitHub",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/github.png"
+                },
+                {
+                    "name": "GitLab",
+                    "figure": "https://raw.githubusercontent.com/issufibadji/portfolio-files/master/dist/images/skills/gitlab.png"
+                }
+            ]
         },
         {
             "group": "OUTROS",
